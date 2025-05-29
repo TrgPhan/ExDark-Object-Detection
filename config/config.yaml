@@ -1,0 +1,4 @@
+input_data : 'datasets' 
+output_data : 'output'
+annotations_path : 'datasets/ExDark_Annno'
+images_path : 'datasets/ExDark'
