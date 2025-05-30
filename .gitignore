@@ -4,6 +4,9 @@ datasets/
 # Bỏ qua models
 models/
 
+# Bỏ quả EnlightGAN
+EnlightGAN/
+
 # Các quy tắc khác (tùy chọn)
 *.log
 __pycache__/
